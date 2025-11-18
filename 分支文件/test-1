@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "This is a test file located at 分支文件/test-1"
